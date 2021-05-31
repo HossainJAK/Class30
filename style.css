@@ -1,0 +1,61 @@
+.logo a i{
+    color: orangered;
+    font-size: 18px;
+    padding-left: 2px;
+}
+.logo a{
+    text-decoration: none;
+    border: 2px solid orangered;
+    padding: 5px 2px;
+    border-radius: 10px;
+}
+.logo h3 {
+    font-size: 25px;
+    line-height: 1;
+    
+}
+.menu-button{
+    display: inline-block;
+    margin-left: 50px;
+}
+.menu{
+    margin-left: 130px;
+}
+.banner{
+    background-image: url(./Images/Banner-bg.jpg);
+    background-size:cover;
+}
+
+.banner p {
+    color: white;
+    font-size: 25px;
+    margin-top: 174px;
+}
+.banner h1 {
+    font-size: 50px;
+    color: white;
+    font-weight: 500;
+}
+.banner button {
+    margin-top: 30px;
+    color: white;
+    font-weight: 700;
+    margin-bottom: 60px;
+}
+.About{
+    background: #F7F9FF;
+    padding: 100px 0px;
+}
+.About p {
+    font-size: 20px;
+}
+.about-img{}
+.about-img img {
+    width: 100%;
+}
+.course-box{
+    box-shadow: 0px 1px 9px #67a1b3a6;
+}
+.program-section{
+    background: #F7F9FF;
+}
